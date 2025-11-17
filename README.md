@@ -17,7 +17,7 @@ A collection of Docker-based projects demonstrating various containerization con
 This repository contains hands-on Docker projects that cover essential containerization concepts including:
 
 - Containerizing applications
-- Multi-container orchestration
+- Multi-container orchestration 
 - CI/CD with GitHub Actions
 - Performance monitoring
 - Multi-stage builds
