@@ -14,7 +14,7 @@ A collection of Docker-based projects demonstrating various containerization con
 
 ## 🎯 Overview
 
-This repository contains hands-on Docker projects that cover essential containerization concepts including:
+This repository contains hands-on Docker projects that cover essential containerization concepts including: 
 
 - Containerizing applications
 - Multi-container orchestration 
