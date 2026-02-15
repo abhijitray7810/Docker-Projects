@@ -1,5 +1,5 @@
 # Docker Projects 
- 
+  
 A collection of Docker-based projects demonstrating various containerization concepts, from simple Python scripts to multi-container applications with CI/CD workflows.  
 
 ## 📋 Table of Contents
