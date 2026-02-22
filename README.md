@@ -216,7 +216,7 @@ sudo usermod -aG docker $USER
 docker logs <container-name>
 ```
 
-## 📚 Resources
+## 📚 Resources 
 
 - [Docker Documentation](https://docs.docker.com/)
 - [Docker Compose Documentation](https://docs.docker.com/compose/)
